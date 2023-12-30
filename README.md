@@ -23,17 +23,16 @@
 <h3 align="left">Languages Known:</h3>
 <p> 
 
-
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/e828d176-9b90-4dbb-bf3f-7bf140b65234" alt="python" width="150" height="150"/> </a>
   
-#C++  
+  
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/0d4e0406-a802-4525-b436-c8b95c34d90b" alt="cplusplus" width="150" height="150"/> </a>
 
-#C
+
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="![image](https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/59351087-f7ed-442a-8bd0-b8e16e19e375)
-" alt="c" width="40" height="40"/> </a>
+<img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/59351087-f7ed-442a-8bd0-b8e16e19e375" alt="c" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Technologies Known:</h3>
