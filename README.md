@@ -21,12 +21,14 @@
 </p>
 
 <h3 align="left">Languages Known:</h3>
-<p align="left"> 
+<p> 
 
 <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/e828d176-9b90-4dbb-bf3f-7bf140b65234" alt="python" width="150" height="150"/> </a>
   
   
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/0d4e0406-a802-4525-b436-c8b95c34d90b" alt="cplusplus" width="150" height="150"/> </a> </p>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/0d4e0406-a802-4525-b436-c8b95c34d90b" alt="cplusplus" width="150" height="150"/> </a>
+</p>
 
 <h3 align="left">Technologies Known:</h3>
 <p align="left"> 
