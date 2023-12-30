@@ -23,17 +23,23 @@
 <h3 align="left">Languages Known:</h3>
 <p> 
 
+//Python
 <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/e828d176-9b90-4dbb-bf3f-7bf140b65234" alt="python" width="150" height="150"/> </a>
   
-  
+//C++  
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/0d4e0406-a802-4525-b436-c8b95c34d90b" alt="cplusplus" width="150" height="150"/> </a>
+
+//C
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC_Programming_Language.svg&psig=AOvVaw0Hl4bugZ3n_4bxth9k6_V9&ust=1704046286554000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIC0iaLht4MDFQAAAAAdAAAAABAE" alt="c" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Technologies Known:</h3>
 <p align="left"> 
 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
  
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angularjs" width="250" height="150" Padding: 10px,10px;/> </a> 
@@ -43,9 +49,6 @@
  
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="250" height="150"/> </a> <br>
   
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="40" height="40"/> </a> 
   
