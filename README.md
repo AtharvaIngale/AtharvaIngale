@@ -54,62 +54,66 @@
 <h3 align="left">Technologies Known:</h3>
 <p align="left"> 
 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
- 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angularjs" width="250" height="150" Padding: 10px,10px;/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/fc720b7d-9018-423a-bf07-580c9dc847a4" alt="pandas" width="250" height="150" style= "Padding: 10px,20px;"/> </a>
+
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/3d0654c7-966d-416a-bd6a-3ab4875f0ad3" alt="scikit_learn" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
   
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="250" height="150" Padding: 10px,10px;/> </a>
- 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="250" height="150"/> </a> <br>
-    
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="250" height="150" style= "Padding: 10px,20px;"/> </a>
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="pytorch" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv" width="250" height="150" style= "Padding: 10px,20px;"/> </a> <br>
 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src= "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwind CSS" width="250" height="150" style= "Padding: 10px,20px;"/> </a>
+ 
+<a href="https://angular.io" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angularjs" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
+
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
+
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="250" height="150" style= "Padding: 10px,20px;"/> </a>
+
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="flask" width="250" height="150" style= "Padding: 10px,20px;"/> </a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="250" height="150" style= "Padding: 10px,20px;"/> </a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
+
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="250" height="150" style= "Padding: 10px,20px;"/> </a>  
+
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="250" height="150" style= "Padding: 10px,20px;"/> </a>
+
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="250" height="150" style= "Padding: 10px,20px;"/> </a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="figma" width="250" height="150" style= "Padding: 10px,20px;"/> </a>  
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/da7dd518-02e8-48b1-8275-cfcd7cbde613" alt="photoshop" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
+   
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  
+</p>
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-    
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvaingale&show_icons=true&locale=en&layout=compact" alt="atharvaingale" /></p>
