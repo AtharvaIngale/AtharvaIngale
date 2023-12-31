@@ -47,8 +47,7 @@
 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/156d421c-063c-48a4-a5b0-83817a31ec91" alt="php" width="150" height="150" style= "Padding: 10px,20px;"/> </a>
 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/fd9e7b48-72fd-4e14-aea5-18ef48d9005b
-" alt="sql" width="150" height="150" style= "Padding: 10px,20px;"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/71e776fb-651f-4153-a09a-baa7e7bcd904" alt="sql" width="150" height="150" style= "Padding: 10px,20px;"/> </a>
 
 </p>
 
