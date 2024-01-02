@@ -56,7 +56,7 @@
 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/fc720b7d-9018-423a-bf07-580c9dc847a4" alt="pandas" width="250" height="150" style= "Padding: 10px,20px;"/> </a>
 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/3d0654c7-966d-416a-bd6a-3ab4875f0ad3" alt="scikit_learn" width="250" height="150" style= "Padding: 10px,20px; background-color: white"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/3d0654c7-966d-416a-bd6a-3ab4875f0ad3" alt="scikit_learn" width="250" height="150" style= "Padding: 10px,20px; background-color: #FFFFFF"/> </a> 
   
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
 
@@ -68,7 +68,7 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv" width="250" height="150" style= "Padding: 10px,20px;"/> </a> <br>
 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" width="250" height="150" style="Padding: 10px,20px;"/> </a> 
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src= "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwind CSS" width="250" height="150" style= "Padding: 10px,20px;"/> </a>
  
