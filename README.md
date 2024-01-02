@@ -40,7 +40,7 @@
 <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/36cc6f03-ea9b-4fb7-891c-8a0560a9da0a" alt="html5" width="150" height="150" style= "Padding: 10px,20px;"/> </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="150" height="150" style= "Padding: 10px,20px;"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="150" height="150" style= "Padding:10px,20px;"/> </a> 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/118f1e6c-a1c2-4cd3-8497-1a76459bccee" alt="javascript" width="150" height="150" style= "Padding: 10px,20px;"/> </a> 
@@ -56,7 +56,7 @@
 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/fc720b7d-9018-423a-bf07-580c9dc847a4" alt="pandas" width="250" height="150" style= "Padding: 10px,20px;"/> </a>
 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/3d0654c7-966d-416a-bd6a-3ab4875f0ad3" alt="scikit_learn" width="250" height="150" style= "Padding: 10px,20px; background-color:white"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/3d0654c7-966d-416a-bd6a-3ab4875f0ad3" alt="scikit_learn" width="250" height="150" style= "Padding: 10px,20px; background-color: white"/> </a> 
   
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
 
