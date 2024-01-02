@@ -108,7 +108,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/da7dd518-02e8-48b1-8275-cfcd7cbde613" alt="photoshop" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/da7dd518-02e8-48b1-8275-cfcd7cbde613" alt="photoshop" width="150" height="150" style= "Padding: 10px,20px;"/> </a> 
    
 
   
