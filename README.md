@@ -24,7 +24,7 @@
 <p> 
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/e828d176-9b90-4dbb-bf3f-7bf140b65234" alt="python" width="150" height="150" style= "Padding: 10px,20px;"/> </a>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="150" height="150" style= "Padding: 10px,20px;"/> </a>
   
   
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
