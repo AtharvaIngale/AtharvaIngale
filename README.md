@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvaingale&label=Profile%20views&color=0e75b6&style=flat" alt="atharvaingale" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvaingale" alt="atharvaingale" /></a> </p>
+
 
 - 🔭 I’m currently working on **DL projects**
 
@@ -113,6 +113,8 @@
 
   
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvaingale" alt="atharvaingale" /></a> </p>
 
 
 <p>
