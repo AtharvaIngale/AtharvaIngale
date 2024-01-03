@@ -26,7 +26,7 @@
 <p> 
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="150" height="150" style= "Padding: 10px,20px,20px, 20px;"/> </a>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="150" height="150" style= "Padding: 20px,20px,120px,120px;"/> </a>
   
   
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
