@@ -43,6 +43,8 @@
 <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/59351087-f7ed-442a-8bd0-b8e16e19e375" alt="c" width="150" height="150" style= "Padding: 10px,20px;"/> </a>
 </td>
 </tr>
+</tbody>
+</table>
 
 <br>
 
