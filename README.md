@@ -1,3 +1,5 @@
+<img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/2fa034e1-0ce2-4b06-b5e5-841246415404" alt="atharvaingale" height="250" width="550" />
+
 <h1 align="center">Hi 👋, I'm Atharva Ingale</h1>
 <h3 align="center">A passionate AI and ML developer from India. Also worked as frontend developer.</h3>
 
