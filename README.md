@@ -33,12 +33,12 @@
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="150" height="150" style= "Padding: 20px,20px,120px,120px;"/> </a>
 </td>
 
-<td>
+<td align="center" width="33%">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/0d4e0406-a802-4525-b436-c8b95c34d90b" alt="cplusplus" width="150" height="150" style= "Padding: 10px,20px;"/> </a>
 </td>
 
-<td>
+<td align="center" width="33%">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/59351087-f7ed-442a-8bd0-b8e16e19e375" alt="c" width="150" height="150" style= "Padding: 10px,20px;"/> </a>
 </td>
