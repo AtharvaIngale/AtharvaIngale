@@ -28,7 +28,7 @@
 <tbody>
 <tr>
   
-<td>
+<td align="center" width="33%">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="150" height="150" style= "Padding: 20px,20px,120px,120px;"/> </a>
 </td>
