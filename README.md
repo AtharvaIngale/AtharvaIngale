@@ -176,14 +176,17 @@
 
 </tbody>
 </table>
-
-  
 </p>
+
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvaingale" alt="atharvaingale" /></a> </p>
 
+<br>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvaingale&show_icons=true&locale=en&layout=compact" alt="atharvaingale" /></p>
+
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvaingale&show_icons=true&locale=en" alt="atharvaingale" /></p>
