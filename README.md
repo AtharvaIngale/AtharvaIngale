@@ -24,6 +24,7 @@
 
 <h3 align="left">Languages Known:</h3>
 <p> 
+  
 <table>
 <tbody>
 <tr>
@@ -75,12 +76,18 @@
 <h3 align="left">Technologies Known:</h3>
 <p align="left"> 
 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/fc720b7d-9018-423a-bf07-580c9dc847a4" alt="pandas" width="250" height="150" style= "Padding: 10px,20px;"/> </a>
+<table>
+<tbody>
+<tr>
+<td align="center" width="33%">
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/fc720b7d-9018-423a-bf07-580c9dc847a4" alt="pandas" width="250" height="150" style= "Padding: 10px,20px;"/> </a> </td>
 
+<td align="center" width="33%">
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/23564383-57aa-43ec-a10b-c3a928d54486" alt="scikit_learn" width="250" height="150" style= "Padding: 10px,20px; background-color: #FFFFFF"/> </a> 
-  
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
 
+<td align="center" width="33%">
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
+</tr>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="250" height="150" style= "Padding: 10px,20px;"/> </a>
 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
@@ -130,7 +137,9 @@
 <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/da7dd518-02e8-48b1-8275-cfcd7cbde613" alt="photoshop" width="150" height="150" style= "Padding: 10px,20px;"/> </a> 
-   
+
+</tbody>
+</table>
 
   
 </p>
