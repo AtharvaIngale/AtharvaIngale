@@ -43,23 +43,32 @@
 <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/59351087-f7ed-442a-8bd0-b8e16e19e375" alt="c" width="150" height="150" style= "Padding: 10px,20px;"/> </a>
 </td>
 </tr>
-</tbody>
-</table>
 
-<br>
-
+<tr>
+<td align="center" width="33%">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/36cc6f03-ea9b-4fb7-891c-8a0560a9da0a" alt="html5" width="150" height="150" style= "Padding: 10px,20px;"/> </a>
+<img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/36cc6f03-ea9b-4fb7-891c-8a0560a9da0a" alt="html5" width="150" height="150" style= "Padding: 10px,20px;"/> </a></td>
 
+<td align="center" width="33%">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="150" height="150" style= "Padding:10px,20px;"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="150" height="150" style= "Padding:10px,20px;"/> </a> </td>
 
+<td align="center" width="33%">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/118f1e6c-a1c2-4cd3-8497-1a76459bccee" alt="javascript" width="150" height="150" style= "Padding: 10px,20px;"/> </a> 
+</td>
+</tr>
 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/156d421c-063c-48a4-a5b0-83817a31ec91" alt="php" width="150" height="150" style= "Padding: 10px,20px;"/> </a>
+<tr>
+<td align="center" width="33%">
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/156d421c-063c-48a4-a5b0-83817a31ec91" alt="php" width="150" height="150" style= "Padding: 10px,20px;"/> </a> </td>
 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/71e776fb-651f-4153-a09a-baa7e7bcd904" alt="sql" width="150" height="150" style= "Padding: 10px,20px;"/> </a>
+<td align="center" width="33%">
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/71e776fb-651f-4153-a09a-baa7e7bcd904" alt="sql" width="150" height="150" style= "Padding: 10px,20px;"/> </a> </td>
+</tr>
+
+</tbody>
+</table>
 
 </p>
 
