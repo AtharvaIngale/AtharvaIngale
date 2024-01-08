@@ -68,7 +68,7 @@
 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/fc720b7d-9018-423a-bf07-580c9dc847a4" alt="pandas" width="250" height="150" style= "Padding: 10px,20px;"/> </a>
 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/3d0654c7-966d-416a-bd6a-3ab4875f0ad3" alt="scikit_learn" width="250" height="150" style= "Padding: 10px,20px; background-color: #FFFFFF"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/23564383-57aa-43ec-a10b-c3a928d54486" alt="scikit_learn" width="250" height="150" style= "Padding: 10px,20px; background-color: #FFFFFF"/> </a> 
   
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
 
