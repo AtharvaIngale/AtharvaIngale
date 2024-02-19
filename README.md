@@ -186,6 +186,8 @@
 
 1. [**Generative AI for Everyone** by DeepLearning.AI on Coursera.](https://www.coursera.org/account/accomplishments/verify/WPDXGPKWG7NB)
 2. [**Supervised Machine Learning: Regression and Classification** by DeepLearning.AI and Stanford Online on Coursera.](https://www.coursera.org/account/accomplishments/verify/7VK7BR79L98Z)
+3. [**Linear Algebra for Machine Learning and Data Science** by DeepLearning.AI on Coursera.](https://www.coursera.org/account/accomplishments/verify/FVVY39ZDU2CM)
+4. 
 
 
 
