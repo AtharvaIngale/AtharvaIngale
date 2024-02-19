@@ -183,9 +183,11 @@
 </p>
 
 <h3 align="left">Certification:</h3>
-<p>
-1. Generative AI for Everyone by DeepLearning.AI on Coursera 
-</p>
+
+1. [**Generative AI for Everyone** by DeepLearning.AI on Coursera.](https://www.coursera.org/account/accomplishments/verify/WPDXGPKWG7NB)
+2. [**Supervised Machine Learning: Regression and Classification** by DeepLearning.AI and Stanford Online on Coursera.](https://www.coursera.org/account/accomplishments/verify/7VK7BR79L98Z)
+
+
 
 <br>
 
