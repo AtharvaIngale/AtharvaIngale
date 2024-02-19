@@ -184,7 +184,7 @@
 
 <h3 align="left">Certification:</h3>
 <p>
-1. <a href="https://www.coursera.org/account/accomplishments/verify/WPDXGPKWG7NB" alt= "Generative AI for Everyone by DeepLearning.AI on Coursera"> </a>
+1. Generative AI for Everyone by DeepLearning.AI on Coursera 
 </p>
 
 <br>
