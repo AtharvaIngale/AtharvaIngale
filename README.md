@@ -82,8 +82,8 @@
 
 <table>
 <tbody>
-<tr style= "bg-color: white;">
-<td align="center" width="33%">
+<tr>
+<td align="center" width="33%" style="background-color: white;">
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/fc720b7d-9018-423a-bf07-580c9dc847a4" alt="pandas" width="250" height="150" style= "Padding: 10px,20px;"/> </a> </td>
 
 <td align="center" width="33%">
