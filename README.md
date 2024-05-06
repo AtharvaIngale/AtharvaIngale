@@ -102,7 +102,7 @@
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="pytorch" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
 
 <td align="center" width="33%">
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv" width="250" height="150" style= "Padding: 10px,20px;"/> </a> <br>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv" width="250" height="150" style= "Padding: 10px,20px; background: white"/> </a> <br>
 </tr>
 
 <tr>
