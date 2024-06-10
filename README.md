@@ -193,7 +193,7 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=atharvaingale](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar)" alt="atharvaingale" /></a> </p>
+<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy"](https://github-profile-trophy.vercel.app/?username=atharvaingale)><img src="https://github-profile-trophy.vercel.app/?username=atharvaingale" alt="atharvaingale" /></a> </p>
 
 <br>
 
