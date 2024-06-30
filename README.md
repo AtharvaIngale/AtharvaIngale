@@ -183,10 +183,10 @@
 
 <tr>
 <td align="center" width="33%">
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/111ae266-10e1-4034-882a-6587c006387c" alt="Spring Framework" width="150" height="150" style= "Padding: 10px,20px;"/> </a> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/dbf6e928-bbcb-44cc-862d-2e7ebb5184f9" alt="Spring Framework" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
 
 <td align="center" width="33%">
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/d73a6dd8-9d71-4511-9c5d-6321990ddf06" alt="Spring Boot" width="150" height="150" style= "Padding: 10px,20px;"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/d73a6dd8-9d71-4511-9c5d-6321990ddf06" alt="Spring Boot" width="250" height="150" style= "Padding: 10px,20px;"/> </a> 
 </tr>
 
 </tbody>
