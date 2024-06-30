@@ -176,6 +176,9 @@
 
 <td align="center" width="33%">
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/da7dd518-02e8-48b1-8275-cfcd7cbde613" alt="photoshop" width="150" height="150" style= "Padding: 10px,20px;"/> </a> 
+
+<td align="center" width="33%">
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/f97a6000-88f0-4831-82a3-7893526ede42" alt="photoshop" width="150" height="150" style= "Padding: 10px,20px;"/> </a> 
 </tr>
 
 </tbody>
