@@ -209,6 +209,6 @@
 <br>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvaingale&show_icons=true&locale=en" alt="atharvaingale" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvaingale&show_icons=true&locale=en&theme=darkhub" alt="atharvaingale" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvaingale&show_icons=true&locale=en" alt="atharvaingale" /></p>
