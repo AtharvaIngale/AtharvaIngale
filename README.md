@@ -198,13 +198,10 @@
 1. [**Generative AI for Everyone** by DeepLearning.AI on Coursera.](https://www.coursera.org/account/accomplishments/verify/WPDXGPKWG7NB)
 2. [**Supervised Machine Learning: Regression and Classification** by DeepLearning.AI and Stanford Online on Coursera.](https://www.coursera.org/account/accomplishments/verify/7VK7BR79L98Z)
 3. [**Linear Algebra for Machine Learning and Data Science** by DeepLearning.AI on Coursera.](https://www.coursera.org/account/accomplishments/verify/FVVY39ZDU2CM)
-4. 
 
 
 
 <br>
-
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy"](https://github-profile-trophy.vercel.app/?username=atharvaingale)><img src="https://github-profile-trophy.vercel.app/?username=atharvaingale" alt="atharvaingale" /></a> </p>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=atharvaingale&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=atharvaingale&theme=darkhub" alt="atharvaingale" /></a> </p>
 
@@ -212,6 +209,6 @@
 <br>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvaingale&show_icons=true&locale=en&layout=compact" alt="atharvaingale" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvaingale&show_icons=true&locale=en" alt="atharvaingale" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvaingale&show_icons=true&locale=en" alt="atharvaingale" /></p>
