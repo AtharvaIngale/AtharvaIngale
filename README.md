@@ -206,6 +206,9 @@
 
 <p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy"](https://github-profile-trophy.vercel.app/?username=atharvaingale)><img src="https://github-profile-trophy.vercel.app/?username=atharvaingale" alt="atharvaingale" /></a> </p>
 
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=atharvaingale&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=atharvaingale&theme=darkhub" alt="atharvaingale" /></a> </p>
+
+
 <br>
 
 <p>
