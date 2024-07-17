@@ -199,7 +199,18 @@
 2. [**Supervised Machine Learning: Regression and Classification** by DeepLearning.AI and Stanford Online on Coursera.](https://www.coursera.org/account/accomplishments/verify/7VK7BR79L98Z)
 3. [**Linear Algebra for Machine Learning and Data Science** by DeepLearning.AI on Coursera.](https://www.coursera.org/account/accomplishments/verify/FVVY39ZDU2CM)
 
+<br>
 
+### 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=atharvaingale&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=atharvaingale&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaingale&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=atharvaingale&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+#### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <br>
 
