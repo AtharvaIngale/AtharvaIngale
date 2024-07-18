@@ -212,7 +212,8 @@
 #### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-```
+
+<!---
 <br>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=atharvaingale&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=atharvaingale&theme=darkhub" alt="atharvaingale" /></a> </p>
@@ -225,3 +226,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvaingale&show_icons=true&locale=en" alt="atharvaingale" /></p>
 ```
+--->
