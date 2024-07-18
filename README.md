@@ -207,11 +207,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaingale&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=atharvaingale&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=atharvaingale&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 #### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+```
 <br>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=atharvaingale&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=atharvaingale&theme=darkhub" alt="atharvaingale" /></a> </p>
@@ -223,3 +224,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvaingale&show_icons=true&locale=en&theme=darkhub" alt="atharvaingale" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvaingale&show_icons=true&locale=en" alt="atharvaingale" /></p>
+```
