@@ -85,9 +85,9 @@
 
 <tr>
 <td align="center" width="25%" style="background-color: white;">
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/fc720b7d-9018-423a-bf07-580c9dc847a4" alt="pandas" width="250" height="150" style= "Padding: 10px,20px;"/> </a> </td>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/fc720b7d-9018-423a-bf07-580c9dc847a4" alt="pandas"/> </a> </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" style= "background-color: white">
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AtharvaIngale/AtharvaIngale/assets/94461630/23564383-57aa-43ec-a10b-c3a928d54486" alt="scikit_learn" width="250" height="150" style= "Padding: 10px,20px; background-color: #FFFFFF"/> </a> 
 
 <td align="center" width="25%">
