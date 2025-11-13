@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **AI, ML and Web Dev**
 
-- 📫 How to reach me **akingale00@gmail.com**
+- 📫 How to reach me **akingale04@gmail.com**
 
 - My portfolio website https://atharvaingale.github.io/Portfolio-website/
 
